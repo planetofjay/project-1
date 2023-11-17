@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/project-1/static/css/main.7a68ee74.css",
-    "main.js": "/project-1/static/js/main.17d9f76d.js",
+    "main.css": "/project-1/static/css/main.b72914fa.css",
+    "main.js": "/project-1/static/js/main.2326ec39.js",
     "static/media/BOARD.jpg": "/project-1/static/media/BOARD.11137d21ab31970eaecb.jpg",
-    "static/media/ARTIST.jpg": "/project-1/static/media/ARTIST.db6110500118aa1d61cf.jpg",
     "static/media/about1.JPG": "/project-1/static/media/about1.257136c6ab2ae29cc7cc.JPG",
     "static/media/about2.JPG": "/project-1/static/media/about2.7b6b60a056c966e6adc7.JPG",
     "static/media/Verdot1.png": "/project-1/static/media/Verdot1.5b042891c0fd42f84511.png",
-    "static/media/Verdot2.png": "/project-1/static/media/Verdot2.98d19b4ebe96f53875f9.png",
+    "static/media/Verdot2.png": "/project-1/static/media/Verdot2.26c30f8dc2af883c29bd.png",
     "static/media/aboutLogo1.PNG": "/project-1/static/media/aboutLogo1.f12b8e3a60b98c897e23.PNG",
     "static/media/logo.PNG": "/project-1/static/media/logo.663fe0e7b821e986f3ba.PNG",
+    "static/media/logo-black.png": "/project-1/static/media/logo-black.06299953fc86d1ba5c1a.png",
     "static/media/CONNTA.PNG": "/project-1/static/media/CONNTA.4b1138f735ea35b7d863.PNG",
     "index.html": "/project-1/index.html",
-    "main.7a68ee74.css.map": "/project-1/static/css/main.7a68ee74.css.map",
-    "main.17d9f76d.js.map": "/project-1/static/js/main.17d9f76d.js.map"
+    "main.b72914fa.css.map": "/project-1/static/css/main.b72914fa.css.map",
+    "main.2326ec39.js.map": "/project-1/static/js/main.2326ec39.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a68ee74.css",
-    "static/js/main.17d9f76d.js"
+    "static/css/main.b72914fa.css",
+    "static/js/main.2326ec39.js"
   ]
 }
